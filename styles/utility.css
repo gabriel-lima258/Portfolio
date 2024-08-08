@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.column-direction {
+  flex-direction: column;
+}
+
+
+.container {
+  max-width: 104rem;
+  padding-inline: 16.4rem;
+  margin-inline: auto;
+}
+
+
+.grid {
+  display: grid;
+}
