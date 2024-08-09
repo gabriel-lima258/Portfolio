@@ -53,3 +53,10 @@ img {
   max-width: 100%;
   display: inline-block;
 }
+
+button {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
