@@ -1,0 +1,60 @@
+footer {
+  max-width: 42rem;
+  margin: 12.8rem 12rem 2rem;
+  margin-inline: auto;
+  text-align: center;
+
+  & .contact {
+    & h3 {
+      color: var(--purple-color);
+      font: var(--subtitle);
+    }
+
+    & h2 {
+      color: var(--gray-600);
+      font: var(--title-md);
+      margin-block: .8rem;
+    }
+
+    & p {
+      color: var(--gray-500);
+      font: var(--text-md);
+    }
+  }
+
+  & .social-media {
+    width: 40rem;
+    margin-inline: auto;
+    margin-block: 4.8rem 20rem;
+
+
+    & .btn-social {
+      justify-content: space-between;
+      gap: 1.2rem;
+      height: 6.8rem;
+      background-color: var(--gray-300);
+      padding: 2.3rem;
+      border-radius: .8rem;
+      font: var(--text-md);
+      color: var(--gray-500);
+
+      & div {
+        text-align: start;
+        display: flex;
+      }
+
+      & a {
+        img {
+          
+        }
+      }
+    }
+
+
+
+
+
+  }
+
+
+}
