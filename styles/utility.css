@@ -21,3 +21,7 @@
 .grid {
   display: grid;
 }
+
+.gap-24 {
+  gap: 2.4rem;
+}
